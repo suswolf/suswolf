@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Jesús</h1>
 <h3 align="center">A Computer Science enthusiast and Lawyer from Venezuela</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
