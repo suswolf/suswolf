@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 💬 Ask me about **Python, SQL and C**
+- 💬 Ask me about **Python, SQL, R and C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
